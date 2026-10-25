@@ -1,0 +1,11 @@
+CHARACTER LEDGER - phone install
+
+1. Host this whole folder on any HTTPS web address
+   (easiest: drag the unzipped folder onto https://app.netlify.com/drop ).
+   It must be https:// - a phone will not install it from a plain file.
+2. Open that address on your phone.
+   Android (Chrome): menu (three dots) > Install app.
+   iPhone (Safari): Share button > Add to Home Screen.
+3. It opens full screen like an app and works offline.
+   Your sheets are saved on that phone only. Use the Backup button to move
+   them between devices until cloud sync is added.
